@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 
 # For Loading Images use imread('Name of Image')
 image = cv2.imread('image.jpg')
@@ -14,3 +15,6 @@ cv2.waitKey()
 # this close all the open windows
 # failure of this will make the program in hung state
 cv2.destroyAllWindows()
+
+
+cv2.imwrite('output.jpg',image)

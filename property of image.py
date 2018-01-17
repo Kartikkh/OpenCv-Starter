@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 
 # For Loading Images use imread('Name of Image')
 image = cv2.imread('image.jpg')
@@ -14,3 +15,13 @@ cv2.waitKey()
 # this close all the open windows
 # failure of this will make the program in hung state
 cv2.destroyAllWindows()
+
+
+# this show image is 1080Pixel in height, 1920 pixel wide and is having 3 colours (RGB)
+print image.shape
+
+
+print 'Height of Image' , image.shape[0], 'pixel'
+print 'Width of Image' , image.shape[1], 'pixel'
+
+
