@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3536fc-9c62-424b-a2bf-eb7877a04a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/6-SplitAndMergeRGB.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/7-HSVColorSpace.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter1/5-ColorLevels.py" afterPath="$PROJECT_DIR$/Chapter1/5-ColorLevels.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -272,6 +268,14 @@
       <option name="presentableId" value="Default" />
       <updated>1516194515061</updated>
     </task>
+    <task id="LOCAL-00001" summary="HSV Color space and Split and merge Included">
+      <created>1516285922415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516285922415</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -304,6 +308,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HSV Color space and Split and merge Included" />
+    <option name="LAST_COMMIT_MESSAGE" value="HSV Color space and Split and merge Included" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -376,6 +384,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
