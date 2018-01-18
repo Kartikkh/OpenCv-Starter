@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3536fc-9c62-424b-a2bf-eb7877a04a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/8-Histogram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/9-DrawingImages.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,23 +16,36 @@
     <SUITE FILE_PATH="coverage/OpenCvStarters$ConvertGrayscale.coverage" NAME="ConvertGrayscale Coverage Results" MODIFIED="1516197831941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_HelloWorld.coverage" NAME="1-HelloWorld Coverage Results" MODIFIED="1516200158109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$Grayscaling.coverage" NAME="Grayscaling Coverage Results" MODIFIED="1516199180398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$9_DrawingImages.coverage" NAME="9-DrawingImages Coverage Results" MODIFIED="1516309300931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$5_ColorLevels.coverage" NAME="5-ColorLevels Coverage Results" MODIFIED="1516289851749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$4_Grayscaling.coverage" NAME="4-Grayscaling Coverage Results" MODIFIED="1516199675964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$6_HSVColorSpace.coverage" NAME="6-HSVColorSpace Coverage Results" MODIFIED="1516285402482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$6_SplitAndMergeRGB.coverage" NAME="6-SplitAndMergeRGB Coverage Results" MODIFIED="1516295025261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$8_Histogram.coverage" NAME="8-Histogram Coverage Results" MODIFIED="1516307674667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$8_Histogram.coverage" NAME="8-Histogram Coverage Results" MODIFIED="1516308475370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$property_of_image.coverage" NAME="property of image Coverage Results" MODIFIED="1516198335955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$SaveImage.coverage" NAME="SaveImage Coverage Results" MODIFIED="1516199086294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8-Histogram.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="8-Histogram.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter1/8-Histogram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="164">
+              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9-DrawingImages.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter1/9-DrawingImages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding>
+                <element signature="e#1#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,6 +78,7 @@
         <option value="$PROJECT_DIR$/Chapter1/5-ColorLevels.py" />
         <option value="$PROJECT_DIR$/Chapter1/6-SplitAndMergeRGB.py" />
         <option value="$PROJECT_DIR$/Chapter1/8-Histogram.py" />
+        <option value="$PROJECT_DIR$/Chapter1/9-DrawingImages.py" />
       </list>
     </option>
   </component>
@@ -74,11 +88,27 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -119,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -141,25 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8-Histogram">
-    <configuration name="1-HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OpenCvStarters" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/1-HelloWorld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.9-DrawingImages">
     <configuration name="5-ColorLevels" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,20 +244,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="9-DrawingImages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OpenCvStarters" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/9-DrawingImages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1-HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5-ColorLevels" />
-      <item index="2" class="java.lang.String" itemvalue="Python.6-HSVColorSpace" />
-      <item index="3" class="java.lang.String" itemvalue="Python.6-SplitAndMergeRGB" />
-      <item index="4" class="java.lang.String" itemvalue="Python.8-Histogram" />
+      <item index="0" class="java.lang.String" itemvalue="Python.5-ColorLevels" />
+      <item index="1" class="java.lang.String" itemvalue="Python.6-HSVColorSpace" />
+      <item index="2" class="java.lang.String" itemvalue="Python.6-SplitAndMergeRGB" />
+      <item index="3" class="java.lang.String" itemvalue="Python.8-Histogram" />
+      <item index="4" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.8-Histogram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.6-SplitAndMergeRGB" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5-ColorLevels" />
-        <item index="3" class="java.lang.String" itemvalue="Python.6-HSVColorSpace" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1-HelloWorld" />
+        <item index="0" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
+        <item index="1" class="java.lang.String" itemvalue="Python.8-Histogram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.6-SplitAndMergeRGB" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5-ColorLevels" />
+        <item index="4" class="java.lang.String" itemvalue="Python.6-HSVColorSpace" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +308,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -424,22 +454,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1/7-HSVColorSpace.py">
+    <entry file="file://$PROJECT_DIR$/Chapter1/8-Histogram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="164">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1/8-Histogram.py">
+    <entry file="file://$PROJECT_DIR$/Chapter1/7-HSVColorSpace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="303">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1/9-DrawingImages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
