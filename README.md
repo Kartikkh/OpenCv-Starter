@@ -27,7 +27,9 @@ This is for Anaconda
 
 - Install Anaconda 4+
 - Search Anaconda Prompt 
-- Execute conda install -c menpo opencv
+```sh
+ Execute conda install -c menpo opencv
+```
 
 ## Contribution
 Feel free to raise an issue about a bug or new feature you would like to see in this project.
