@@ -36,10 +36,8 @@ print gray_image.shape
 # Gray scale image contains only 1 pixel value ranging from 0-255
 print gray_image[1,2]
 
-
-
-
-
 # this close all the open windows
 # failure of this will make the program in hung state
 cv2.destroyAllWindows()
+
+
