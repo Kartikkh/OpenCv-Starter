@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3536fc-9c62-424b-a2bf-eb7877a04a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/2-Rotation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter-2/1-Image Manipulation.py" afterPath="$PROJECT_DIR$/Chapter-2/1-Translational.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/3-Scaling.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter-2/Readme.md" afterPath="$PROJECT_DIR$/Chapter-2/Readme.md" />
     </list>
@@ -18,6 +17,7 @@
     <SUITE FILE_PATH="coverage/OpenCvStarters$ConvertGrayscale.coverage" NAME="ConvertGrayscale Coverage Results" MODIFIED="1516197831941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_Image_Manipulation.coverage" NAME="1-Image Manipulation Coverage Results" MODIFIED="1517076617469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$6_SplitAndMergeRGB.coverage" NAME="6-SplitAndMergeRGB Coverage Results" MODIFIED="1516295025261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$3_Scaling.coverage" NAME="3-Scaling Coverage Results" MODIFIED="1517086248935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_HelloWorld.coverage" NAME="1-HelloWorld Coverage Results" MODIFIED="1516200158109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$Grayscaling.coverage" NAME="Grayscaling Coverage Results" MODIFIED="1516199180398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$9_DrawingImages.coverage" NAME="9-DrawingImages Coverage Results" MODIFIED="1516309300931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
@@ -31,23 +31,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1-Translational.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter-2/1-Translational.py">
+      <file leaf-file-name="3-Scaling.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter-2/3-Scaling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="-43">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="e#118#128#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-Rotation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2-Rotation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter-2/2-Rotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="306">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,9 +81,10 @@
         <option value="$PROJECT_DIR$/Chapter1/6-SplitAndMergeRGB.py" />
         <option value="$PROJECT_DIR$/Chapter1/8-Histogram.py" />
         <option value="$PROJECT_DIR$/Chapter1/9-DrawingImages.py" />
-        <option value="$PROJECT_DIR$/Chapter-2/Readme.md" />
         <option value="$PROJECT_DIR$/Chapter-2/1-Image Manipulation.py" />
         <option value="$PROJECT_DIR$/Chapter-2/2-Rotation.py" />
+        <option value="$PROJECT_DIR$/Chapter-2/Readme.md" />
+        <option value="$PROJECT_DIR$/Chapter-2/3-Scaling.py" />
       </list>
     </option>
   </component>
@@ -93,7 +94,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -182,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2-Rotation">
+  <component name="RunManager" selected="Python.3-Scaling">
     <configuration name="1-Image Manipulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,20 +220,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="6-SplitAndMergeRGB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-Scaling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCvStarters" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/6-SplitAndMergeRGB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter-2/3-Scaling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,19 +275,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.6-SplitAndMergeRGB" />
-      <item index="1" class="java.lang.String" itemvalue="Python.8-Histogram" />
-      <item index="2" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.2-Rotation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.8-Histogram" />
+      <item index="1" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.2-Rotation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3-Scaling" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.2-Rotation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
-        <item index="3" class="java.lang.String" itemvalue="Python.8-Histogram" />
-        <item index="4" class="java.lang.String" itemvalue="Python.6-SplitAndMergeRGB" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3-Scaling" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2-Rotation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
+        <item index="4" class="java.lang.String" itemvalue="Python.8-Histogram" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +320,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -476,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-2/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="354">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -494,9 +495,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-2/2-Rotation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="306">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-2/3-Scaling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

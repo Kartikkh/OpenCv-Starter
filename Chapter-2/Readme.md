@@ -8,7 +8,7 @@ Types of Transformations are -
 
 
 
-## [Affine Transformation](https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/)
+## Affine Transformation
 
  Affine transform is a combination of rotation, translation ( shift ), scale, and shear.
  This transform has six parameters. When a square undergoes an Affine transformation, parallel lines remain parallel,
@@ -23,6 +23,9 @@ Types of Transformations are -
 - Line which are parallel in the original image will always be parallel in transformed image
 - Parallelism is always maintained
 
+##### For More Information Please check these Links
+- [Geometrical Transformation](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_geometric_transformations/py_geometric_transformations.html)
+- [Affine Transformation Example](https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/)
 
 
 ## Non Affine Transformation
