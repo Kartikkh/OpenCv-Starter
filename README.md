@@ -1,5 +1,5 @@
 # Open-Cv-starters
-This is a repository for Learning OpenCv by example provided in each Chapters
+This is a repository for Learning OpenCv by example provided in each Chapters.And
 All the code is documented Properly
 
 ## Requirements
