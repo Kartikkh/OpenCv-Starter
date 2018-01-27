@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3536fc-9c62-424b-a2bf-eb7877a04a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeometricTransformations.ppt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/4-ImagePyramiding.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter-1/3-SaveImage-3.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter-1/3-SaveImage-3.py" afterPath="$PROJECT_DIR$/Chapter-1/3-SaveImage.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter-2/Readme.md" afterPath="$PROJECT_DIR$/Chapter-2/Readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,6 +19,7 @@
     <SUITE FILE_PATH="coverage/OpenCvStarters$ConvertGrayscale.coverage" NAME="ConvertGrayscale Coverage Results" MODIFIED="1516197831941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_Image_Manipulation.coverage" NAME="1-Image Manipulation Coverage Results" MODIFIED="1517076617469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$6_SplitAndMergeRGB.coverage" NAME="6-SplitAndMergeRGB Coverage Results" MODIFIED="1516295025261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$4_ImagePyramiding.coverage" NAME="4-ImagePyramiding Coverage Results" MODIFIED="1517087191833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$3_Scaling.coverage" NAME="3-Scaling Coverage Results" MODIFIED="1517086248935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_HelloWorld.coverage" NAME="1-HelloWorld Coverage Results" MODIFIED="1516200158109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$Grayscaling.coverage" NAME="Grayscaling Coverage Results" MODIFIED="1516199180398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -29,40 +33,7 @@
     <SUITE FILE_PATH="coverage/OpenCvStarters$2_Rotation.coverage" NAME="2-Rotation Coverage Results" MODIFIED="1517085441689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="3-Scaling.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter-2/3-Scaling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter-2/Readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-Rotation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter-2/2-Rotation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,8 +63,9 @@
         <option value="$PROJECT_DIR$/Chapter1/9-DrawingImages.py" />
         <option value="$PROJECT_DIR$/Chapter-2/1-Image Manipulation.py" />
         <option value="$PROJECT_DIR$/Chapter-2/2-Rotation.py" />
-        <option value="$PROJECT_DIR$/Chapter-2/Readme.md" />
         <option value="$PROJECT_DIR$/Chapter-2/3-Scaling.py" />
+        <option value="$PROJECT_DIR$/Chapter-2/Readme.md" />
+        <option value="$PROJECT_DIR$/Chapter-2/4-ImagePyramiding.py" />
       </list>
     </option>
   </component>
@@ -192,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3-Scaling">
+  <component name="RunManager" selected="Python.4-ImagePyramiding">
     <configuration name="1-Image Manipulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,20 +219,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="8-Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4-ImagePyramiding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCvStarters" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/8-Histogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter-2/4-ImagePyramiding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,19 +256,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.8-Histogram" />
-      <item index="1" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.2-Rotation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3-Scaling" />
+      <item index="0" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.2-Rotation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3-Scaling" />
+      <item index="4" class="java.lang.String" itemvalue="Python.4-ImagePyramiding" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3-Scaling" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2-Rotation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
-        <item index="4" class="java.lang.String" itemvalue="Python.8-Histogram" />
+        <item index="0" class="java.lang.String" itemvalue="Python.4-ImagePyramiding" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3-Scaling" />
+        <item index="2" class="java.lang.String" itemvalue="Python.2-Rotation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1-Image Manipulation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.9-DrawingImages" />
       </list>
     </recent_temporary>
   </component>
@@ -330,9 +302,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -380,6 +351,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -412,35 +386,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-1/2-Property_of_image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Chapter-1/4-Grayscaling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-1/3-SaveImage-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-1/5-ColorLevels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-1/6-SplitAndMergeRGB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -495,6 +441,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-2/3-Scaling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -503,20 +459,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-2/3-Scaling.py">
+    <entry file="file://$PROJECT_DIR$/Chapter-2/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-1/2-Property_of_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-1/3-SaveImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-1/4-Grayscaling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-43">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-1/5-ColorLevels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-2/Readme.md">
+    <entry file="file://$PROJECT_DIR$/Chapter-2/4-ImagePyramiding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>

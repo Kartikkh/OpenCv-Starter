@@ -1,3 +1,6 @@
+# Geometric Calculations
+Let's get some hand Dirty with Some Geometry, Before understanding this Chapter [Geometrical Transformations](https://github.com/Kartikkh/OpenCv-Starter/blob/master/GeometricTransformations.ppt)
+
 # Image Manipulation
 Transformation simply means Geometric distortion inacted upon the image Like Rotation, Translation, Scale
 So, We generally use transformation to correct the problem of image capturing from different points and Angles
@@ -33,4 +36,4 @@ Types of Transformations are -
 - In Non Affine Transformation Collinearity is maintained !
 - They does not preserve Parallelism , Angle and Length
 - Very common in Computer vision
-- And it arrises due to the way of image is being captured !
+- And it arises due to the way of image is being captured !
