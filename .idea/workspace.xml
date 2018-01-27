@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3536fc-9c62-424b-a2bf-eb7877a04a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/3-Scaling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeometricTransformations.ppt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter-2/Readme.md" afterPath="$PROJECT_DIR$/Chapter-2/Readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +30,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="3-Scaling.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3-Scaling.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter-2/3-Scaling.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-43">
@@ -39,6 +38,16 @@
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter-2/Readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -164,8 +173,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Kartik Khandelwal\PycharmProjects\OpenCvStarters\Chapter-2" />
       <recent name="C:\Users\Kartik Khandelwal\PycharmProjects\OpenCvStarters" />
+      <recent name="C:\Users\Kartik Khandelwal\PycharmProjects\OpenCvStarters\Chapter-2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Kartik Khandelwal\PycharmProjects\OpenCvStarters\Chapter1" />
@@ -411,13 +420,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-1/4-Grayscaling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-43">
@@ -475,20 +477,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-2/Readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-2/1-Translational.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="23" />
           <folding>
-            <element signature="e#118#128#0" expanded="true" />
+            <element signature="e#118#128#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -501,6 +495,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-2/3-Scaling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-43">
@@ -508,6 +510,14 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-2/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
