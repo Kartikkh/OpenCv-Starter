@@ -31,7 +31,7 @@ Types of Transformations are -
 - [Affine Transformation Example](https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/)
 - [How Blurs & Filters Work](https://www.youtube.com/watch?v=C_zFhWdM4ic&t=301s)
 - [Finding the Edges](https://www.youtube.com/watch?v=uihBwtPIBxM&list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF&index=2)
-
+- [Computer Graphic Algorithms and Understanding](http://lodev.org/cgtutor/)
 
 ## Non Affine Transformation
 
