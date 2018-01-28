@@ -29,6 +29,8 @@ Types of Transformations are -
 ##### For More Information Please check these Links
 - [Geometrical Transformation](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_geometric_transformations/py_geometric_transformations.html)
 - [Affine Transformation Example](https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/)
+- [How Blurs & Filters Work](https://www.youtube.com/watch?v=C_zFhWdM4ic&t=301s)
+- [Finding the Edges](https://www.youtube.com/watch?v=uihBwtPIBxM&list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF&index=2)
 
 
 ## Non Affine Transformation
