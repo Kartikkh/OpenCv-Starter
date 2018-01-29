@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3536fc-9c62-424b-a2bf-eb7877a04a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/11-AdaptiveThresholding.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter-2/ImageThresholding.py" afterPath="$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +17,7 @@
     <SUITE FILE_PATH="coverage/OpenCvStarters$6_AirthmeticOperaions.coverage" NAME="6-AirthmeticOperaions Coverage Results" MODIFIED="1517089423066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_Image_Manipulation.coverage" NAME="1-Image Manipulation Coverage Results" MODIFIED="1517076617469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$5_CroppingImage.coverage" NAME="5-CroppingImage Coverage Results" MODIFIED="1517088428594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$13_Erosion_Dilation.coverage" NAME="13-Erosion Dilation Coverage Results" MODIFIED="1517208727170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$ImageThresholding.coverage" NAME="ImageThresholding Coverage Results" MODIFIED="1517162250954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$6_SplitAndMergeRGB.coverage" NAME="6-SplitAndMergeRGB Coverage Results" MODIFIED="1516295025261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$4_ImagePyramiding.coverage" NAME="4-ImagePyramiding Coverage Results" MODIFIED="1517087191833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
@@ -41,12 +40,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="12-Otsu’s Binarization.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12-Otsu’s Binarization.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13-Erosion Dilation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="109" lean-forward="false" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,6 +107,7 @@
         <option value="$PROJECT_DIR$/Chapter-2/11-AdaptiveThresholding.py" />
         <option value="$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py" />
         <option value="$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py" />
+        <option value="$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py" />
       </list>
     </option>
   </component>
@@ -105,7 +117,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -189,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12-Otsu’s Binarization">
+  <component name="RunManager" selected="Python.13-Erosion Dilation">
     <configuration name="11-AdaptiveThresholding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +238,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="8-Blurring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13-Erosion Dilation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -239,7 +251,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCvStarters" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter-2/8-Blurring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,19 +293,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.8-Blurring" />
-      <item index="1" class="java.lang.String" itemvalue="Python.9-Sharping" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ImageThresholding" />
-      <item index="3" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
-      <item index="4" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
+      <item index="0" class="java.lang.String" itemvalue="Python.9-Sharping" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ImageThresholding" />
+      <item index="2" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
+      <item index="3" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13-Erosion Dilation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
-        <item index="1" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ImageThresholding" />
-        <item index="3" class="java.lang.String" itemvalue="Python.9-Sharping" />
-        <item index="4" class="java.lang.String" itemvalue="Python.8-Blurring" />
+        <item index="0" class="java.lang.String" itemvalue="Python.13-Erosion Dilation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
+        <item index="2" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ImageThresholding" />
+        <item index="4" class="java.lang.String" itemvalue="Python.9-Sharping" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -652,9 +664,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="109" lean-forward="false" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
