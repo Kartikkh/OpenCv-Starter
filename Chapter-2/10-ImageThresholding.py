@@ -3,7 +3,7 @@
 import cv2
 
 
-img = cv2.imread('image.jpg')
+img = cv2.imread('image.jpg',0)
 
 #Simple Thresholding
 #Here, the matter is straight forward. If pixel value is greater than a threshold value, it is assigned one value (may be white),
