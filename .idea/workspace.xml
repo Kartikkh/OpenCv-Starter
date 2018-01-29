@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3536fc-9c62-424b-a2bf-eb7877a04a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter-2/14-EdgeDetection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Kartik_Khandelwal.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kartik_Khandelwal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py" afterPath="$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,50 +16,39 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/OpenCvStarters$ConvertGrayscale.coverage" NAME="ConvertGrayscale Coverage Results" MODIFIED="1516197831941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$6_AirthmeticOperaions.coverage" NAME="6-AirthmeticOperaions Coverage Results" MODIFIED="1517089423066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_Image_Manipulation.coverage" NAME="1-Image Manipulation Coverage Results" MODIFIED="1517076617469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$5_CroppingImage.coverage" NAME="5-CroppingImage Coverage Results" MODIFIED="1517088428594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$13_Erosion_Dilation.coverage" NAME="13-Erosion Dilation Coverage Results" MODIFIED="1517208727170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$ImageThresholding.coverage" NAME="ImageThresholding Coverage Results" MODIFIED="1517162250954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$6_SplitAndMergeRGB.coverage" NAME="6-SplitAndMergeRGB Coverage Results" MODIFIED="1516295025261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$4_ImagePyramiding.coverage" NAME="4-ImagePyramiding Coverage Results" MODIFIED="1517087191833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$3_Scaling.coverage" NAME="3-Scaling Coverage Results" MODIFIED="1517086248935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$12_Otsus_Binarization.coverage" NAME="12-Otsu’s Binarization Coverage Results" MODIFIED="1517207653785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$1_HelloWorld.coverage" NAME="1-HelloWorld Coverage Results" MODIFIED="1516200158109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$Grayscaling.coverage" NAME="Grayscaling Coverage Results" MODIFIED="1516199180398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$9_DrawingImages.coverage" NAME="9-DrawingImages Coverage Results" MODIFIED="1516309300931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$5_ColorLevels.coverage" NAME="5-ColorLevels Coverage Results" MODIFIED="1516289851749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$7_BitWise.coverage" NAME="7-BitWise Coverage Results" MODIFIED="1517089776159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$11_AdaptiveThresholding.coverage" NAME="11-AdaptiveThresholding Coverage Results" MODIFIED="1517207223251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$4_Grayscaling.coverage" NAME="4-Grayscaling Coverage Results" MODIFIED="1516199675964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$6_HSVColorSpace.coverage" NAME="6-HSVColorSpace Coverage Results" MODIFIED="1516285402482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$8_Blurring.coverage" NAME="8-Blurring Coverage Results" MODIFIED="1517148292014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$9_Sharping.coverage" NAME="9-Sharping Coverage Results" MODIFIED="1517160135363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$SaveImage.coverage" NAME="SaveImage Coverage Results" MODIFIED="1516199086294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$6_AirthmeticOperaions.coverage" NAME="6-AirthmeticOperaions Coverage Results" MODIFIED="1517089423066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$5_CroppingImage.coverage" NAME="5-CroppingImage Coverage Results" MODIFIED="1517088428594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$13_Erosion_Dilation.coverage" NAME="13-Erosion Dilation Coverage Results" MODIFIED="1517208727170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$ImageThresholding.coverage" NAME="ImageThresholding Coverage Results" MODIFIED="1517162250954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$6_SplitAndMergeRGB.coverage" NAME="6-SplitAndMergeRGB Coverage Results" MODIFIED="1516295025261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$14_EdgeDetection.coverage" NAME="14-EdgeDetection Coverage Results" MODIFIED="1517257652668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$Grayscaling.coverage" NAME="Grayscaling Coverage Results" MODIFIED="1516199180398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpenCvStarters$11_AdaptiveThresholding.coverage" NAME="11-AdaptiveThresholding Coverage Results" MODIFIED="1517207223251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$8_Histogram.coverage" NAME="8-Histogram Coverage Results" MODIFIED="1516308475370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$property_of_image.coverage" NAME="property of image Coverage Results" MODIFIED="1516198335955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OpenCvStarters$SaveImage.coverage" NAME="SaveImage Coverage Results" MODIFIED="1516199086294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCvStarters$2_Rotation.coverage" NAME="2-Rotation Coverage Results" MODIFIED="1517085441689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter-2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="12-Otsu’s Binarization.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py">
+      <file leaf-file-name="14-EdgeDetection.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter-2/14-EdgeDetection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="93">
+              <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13-Erosion Dilation.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="109" lean-forward="false" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,9 +96,11 @@
         <option value="$PROJECT_DIR$/Chapter-2/ImageThresholding.py" />
         <option value="$PROJECT_DIR$/Chapter-2/AdaptiveThresholding.py" />
         <option value="$PROJECT_DIR$/Chapter-2/11-AdaptiveThresholding.py" />
-        <option value="$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py" />
         <option value="$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py" />
         <option value="$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py" />
+        <option value="$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py" />
+        <option value="$PROJECT_DIR$/Chapter-2/EdgeDetection.py" />
+        <option value="$PROJECT_DIR$/Chapter-2/14-EdgeDetection.py" />
       </list>
     </option>
   </component>
@@ -117,7 +110,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -201,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13-Erosion Dilation">
+  <component name="RunManager" selected="Python.14-EdgeDetection">
     <configuration name="11-AdaptiveThresholding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,7 +249,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="9-Sharping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14-EdgeDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -269,7 +262,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCvStarters" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter-2/9-Sharping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter-2/14-EdgeDetection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,19 +286,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.9-Sharping" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ImageThresholding" />
-      <item index="2" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
-      <item index="3" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
-      <item index="4" class="java.lang.String" itemvalue="Python.13-Erosion Dilation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ImageThresholding" />
+      <item index="1" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
+      <item index="2" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
+      <item index="3" class="java.lang.String" itemvalue="Python.13-Erosion Dilation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.14-EdgeDetection" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.13-Erosion Dilation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
-        <item index="2" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ImageThresholding" />
-        <item index="4" class="java.lang.String" itemvalue="Python.9-Sharping" />
+        <item index="0" class="java.lang.String" itemvalue="Python.14-EdgeDetection" />
+        <item index="1" class="java.lang.String" itemvalue="Python.13-Erosion Dilation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.12-Otsu’s Binarization" />
+        <item index="3" class="java.lang.String" itemvalue="Python.11-AdaptiveThresholding" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ImageThresholding" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +331,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -654,29 +647,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py">
+    <entry file="file://$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state relative-caret-position="391">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter-2/12-Otsu’s Binarization.py">
+    <entry file="file://$PROJECT_DIR$/Chapter-2/10-ImageThresholding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter-2/13-Erosion Dilation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="109" lean-forward="false" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="14" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter-2/14-EdgeDetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>

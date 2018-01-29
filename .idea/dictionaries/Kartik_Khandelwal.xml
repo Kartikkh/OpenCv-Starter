@@ -4,6 +4,8 @@
       <w>anykey</w>
       <w>imread</w>
       <w>informations</w>
+      <w>laplacian</w>
+      <w>sobel</w>
       <w>thresholding</w>
     </words>
   </dictionary>

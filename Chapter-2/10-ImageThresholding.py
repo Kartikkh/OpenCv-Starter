@@ -8,7 +8,7 @@ img = cv2.imread('image.jpg',0)
 #Simple Thresholding
 #Here, the matter is straight forward. If pixel value is greater than a threshold value, it is assigned one value (may be white),
 # else it is assigned another value (may be black). The function used is cv2.threshold.
-# First argument is the source image, which should be a grayscale image.
+# First argument is the source image, which should be a gray scale image.
 # Second argument is the threshold value which is used to classify the pixel values.
 #  Third argument is the maxVal which represents the value to be given if pixel value is more than
 #  (sometimes less than) the threshold value.
