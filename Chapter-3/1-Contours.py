@@ -20,8 +20,9 @@ cv2.waitKey()
 ret, thresh = cv2.threshold(grayimage, 127, 255, 0)
 cv2.imshow("thresh" ,  thresh)
 cv2.waitKey()
-# Finding Edges
 
+
+# Finding Edges
 CannyEdge = cv2.Canny(thresh,50,100)
 cv2.imshow("CannyEdges" ,  CannyEdge)
 cv2.waitKey()
@@ -30,7 +31,7 @@ cv2.waitKey()
 #Finding Contours
 # Contour is the return list of contour from the image
 # it is lists of list of points
-image, contours, hierarchy = cv2.findContours(CannyEdge,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)
+image, contours, hierarchy = cv2.findContours(CannyEdge,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
 
 # check here -
 #print contours
