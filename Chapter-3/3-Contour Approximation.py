@@ -1,6 +1,6 @@
-import numpy as np
 import cv2
 
+#http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contour_features/py_contour_features.html
 Orgimage = cv2.imread('house.jpg')
 ApproxImage = Orgimage.copy()
 
